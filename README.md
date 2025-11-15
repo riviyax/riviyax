@@ -24,7 +24,7 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Git](https://skillicons.dev/icons?i=git)
+![Git](https://skillicons.dev/icons?i=react)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![VSCode](https://skillicons.dev/icons?i=php)
