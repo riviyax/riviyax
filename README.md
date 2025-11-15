@@ -1,21 +1,23 @@
-# React + Vite
+<h1 align="center">Hi, I'm Riviya_X 👋</h1>
+<p align="center">15 y/o Developer | Python • JavaScript • Arduino | Sri Lanka 🇱🇰</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🚀 About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 👦 I'm a 15-year-old self-taught developer  
+- 💻 I love building tools, bots, and automation apps  
+- ⚡ Creator of **Presenter-Remote** (PowerPoint Controller using Arduino)  
+- 🌱 Currently learning full-stack development  
+- 🎧 Coding with music & experimenting with new ideas  
+- 🇱🇰 Based in Sri Lanka  
 
-## React Compiler
+---
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+## 🔧 Tech Stack
 
-## Expanding the ESLint configuration
+<div align="center">
 
-<<<<<<< HEAD
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 ![PS](https://skillicons.dev/icons?i=ps)
 ![PR](https://skillicons.dev/icons?i=pr)
 ![Python](https://skillicons.dev/icons?i=python)
@@ -67,4 +69,3 @@ A simple marks viewing tool built using JavaScript.
 
 ⭐ **Thanks for visiting my profile!**  
 Feel free to ⭐ star my repositories if you find them useful!
->>>>>>> 784853ef1934fc44af9c32c0ec0747ff8df56717
