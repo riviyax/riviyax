@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Riviya_X 👋</h1>
+<p align="center">15 y/o Developer | Python • JavaScript • Arduino | Sri Lanka 🇱🇰</p>
 
-<!--
-**riviyax/riviyax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👦 I'm a 15-year-old self-taught developer  
+- 💻 I love building tools, bots, and automation apps  
+- ⚡ Creator of **Presenter-Remote** (PowerPoint Controller using Arduino)  
+- 🌱 Currently learning full-stack development  
+- 🎧 Coding with music & experimenting with new ideas  
+- 🇱🇰 Based in Sri Lanka  
+
+---
+
+## 🔧 Tech Stack
+
+<div align="center">
+
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+</div>
+
+---
+
+## 📦 Featured Projects
+
+### 🎮 Presenter-Remote  
+A Python + Arduino system to control PowerPoint using a custom remote.
+
+### 🛠️ MMU Tools  
+Small utilities made for school-related tasks.
+
+### 📊 Marks Viewer  
+A simple marks viewing tool built using JavaScript.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riviyax&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riviyax&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: **mrriviya@gmail.com**
+- 🔗 GitHub: **https://github.com/riviyax**
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+Feel free to ⭐ star my repositories if you find them useful!
