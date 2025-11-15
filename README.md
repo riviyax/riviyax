@@ -18,16 +18,18 @@
 
 <div align="center">
 
+![PS](https://skillicons.dev/icons?i=ps)
+![PR](https://skillicons.dev/icons?i=pr)
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Git](https://skillicons.dev/icons?i=react)
+![React](https://skillicons.dev/icons?i=react)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
-![VSCode](https://skillicons.dev/icons?i=php)
+![PHP](https://skillicons.dev/icons?i=php)
 
 </div>
 
