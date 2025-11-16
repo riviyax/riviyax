@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Riviya_X 👋</h1>
-<p align="center">15 y/o Developer | Python • JavaScript • Arduino | Sri Lanka 🇱🇰</p>
+<p align="center">15 y/o Developer • Graphic Designer | Sri Lanka 🇱🇰</p>
 
 ---
 
