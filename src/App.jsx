@@ -69,7 +69,7 @@ export default function App() {
       title: "EZMail",
       desc: "Simple smtp server using Node.js",
       tag: "JS, Nodemailer",
-      link: "https://github.com/riviyax/EZMail",
+      link: "https://ezmail-smtp.pages.dev/",
     },
   ];
 
