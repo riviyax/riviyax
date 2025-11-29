@@ -144,7 +144,7 @@ export default function App() {
           </h1>
 
           <p className="mt-4 text-lg text-gray-300">
-            15 y/o Developer • Graphic Designer
+            Developer • Graphic Designer
           </p>
 
           <a
@@ -160,7 +160,7 @@ export default function App() {
           <h2 className="text-3xl font-bold">About Me</h2>
 
           <p className="mt-4 text-gray-300 max-w-2xl hover:text-white transition-all duration-300 cursor-default">
-            I'm a 15-year-old self-taught developer from Sri Lanka. I build
+            I'm a self-taught developer from Sri Lanka. I build
             tools, bots, and automation apps using Python, JavaScript, and
             Arduino. Always learning and creating useful projects.
           </p>
