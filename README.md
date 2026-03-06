@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 👦 I'm a 15-year-old self-taught developer  
+- 👦 I'm a 16-year-old self-taught developer  
 - 💻 I love building tools, bots, and automation apps  
 - ⚡ Creator of **Presenter-Remote** (PowerPoint Controller using Arduino)  
 - 🌱 Currently learning full-stack development  
