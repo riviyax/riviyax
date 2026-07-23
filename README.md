@@ -7,7 +7,7 @@
 
 - 👦 I'm a 16-year-old self-taught developer  
 - 💻 I love building tools, bots, and automation apps  
-- ⚡ Creator of **Presenter-Remote** (PowerPoint Controller using Arduino)  
+- ⚡ Creator of **EZMail Mail System**
 - 🌱 Currently learning full-stack development  
 - 🎧 Coding with music & experimenting with new ideas  
 - 🇱🇰 Based in Sri Lanka  
@@ -30,6 +30,7 @@
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![PHP](https://skillicons.dev/icons?i=php)
+![Laravel](https://skillicons.dev/icons?i=laravel)
 
 </div>
 
@@ -37,32 +38,20 @@
 
 ## 📦 Featured Projects
 
-### 🎮 Presenter-Remote  
+### 🎮 SlideBeam
 A Python + Arduino system to control PowerPoint using a custom remote.
 
-### 🛠️ MMU Tools  
+### 🛠️ Marks System
 Small utilities made for school-related tasks.
 
-### 📊 Marks Viewer  
-A simple marks viewing tool built using JavaScript.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riviyax&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riviyax&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+### 📊 EZMail
+Simple Mail Delivery System for Developers
 
 ---
 
 ## 🌐 Connect With Me
 
-- 📧 Email: **mrriviya@gmail.com**
+- 📧 Email: **support@riviyax.site**
 - 🔗 GitHub: **https://github.com/riviyax**
 
 ---
